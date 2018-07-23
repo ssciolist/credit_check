@@ -1,0 +1,470 @@
+[
+  {
+    "NBHD_ID": 2,
+    "NBHD_NAME": "Auraria",
+    "TYPOLOGY": 9084,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 21,
+    "NBHD_NAME": "Cory - Merrill",
+    "TYPOLOGY": 9285,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 7,
+    "NBHD_NAME": "Belcaro",
+    "TYPOLOGY": 7732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 70,
+    "NBHD_NAME": "Washington Park",
+    "TYPOLOGY": 3459,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 71,
+    "NBHD_NAME": "Washington Park West",
+    "TYPOLOGY": 6342,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 59,
+    "NBHD_NAME": "Speer",
+    "TYPOLOGY": 8763,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 13,
+    "NBHD_NAME": "Cherry Creek",
+    "TYPOLOGY": 2345,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 22,
+    "NBHD_NAME": "Country Club",
+    "TYPOLOGY": 6876,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 20,
+    "NBHD_NAME": "Congress Park",
+    "TYPOLOGY": 9084,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 14,
+    "NBHD_NAME": "City Park",
+    "TYPOLOGY": 9285,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 44,
+    "NBHD_NAME": "Marston",
+    "TYPOLOGY": 7732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 27,
+    "NBHD_NAME": "Fort Logan",
+    "TYPOLOGY": 9084,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 6,
+    "NBHD_NAME": "Bear Valley",
+    "TYPOLOGY": 9285,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 72,
+    "NBHD_NAME": "Washington Virginia Vale",
+    "TYPOLOGY": 7732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 4,
+    "NBHD_NAME": "Barnum",
+    "TYPOLOGY": 3459,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 5,
+    "NBHD_NAME": "Barnum West",
+    "TYPOLOGY": 6342,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 74,
+    "NBHD_NAME": "West Colfax",
+    "TYPOLOGY": 8763,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 75,
+    "NBHD_NAME": "West Highland",
+    "TYPOLOGY": 2345,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 56,
+    "NBHD_NAME": "Sloan Lake",
+    "TYPOLOGY": 6876,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 8,
+    "NBHD_NAME": "Berkeley",
+    "TYPOLOGY": 9084,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 52,
+    "NBHD_NAME": "Regis",
+    "TYPOLOGY": 9285,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 11,
+    "NBHD_NAME": "Chaffee Park",
+    "TYPOLOGY": 7732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 36,
+    "NBHD_NAME": "Highland",
+    "TYPOLOGY": 3459,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 1,
+    "NBHD_NAME": "Athmar Park",
+    "TYPOLOGY": 6342,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 78,
+    "NBHD_NAME": "Windsor",
+    "TYPOLOGY": 8763,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 73,
+    "NBHD_NAME": "Wellshire",
+    "TYPOLOGY": 2345,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 64,
+    "NBHD_NAME": "University",
+    "TYPOLOGY": 6876,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 53,
+    "NBHD_NAME": "Rosedale",
+    "TYPOLOGY": 9084,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 12,
+    "NBHD_NAME": "Cheesman Park",
+    "TYPOLOGY": 9285,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 37,
+    "NBHD_NAME": "Hilltop",
+    "TYPOLOGY": 7732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 46,
+    "NBHD_NAME": "Montclair",
+    "TYPOLOGY": 3459,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 31,
+    "NBHD_NAME": "Hale",
+    "TYPOLOGY": 6342,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 48,
+    "NBHD_NAME": "North Park Hill",
+    "TYPOLOGY": 8763,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 57,
+    "NBHD_NAME": "South Park Hill",
+    "TYPOLOGY": 2345,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 66,
+    "NBHD_NAME": "University Park",
+    "TYPOLOGY": 6876,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 51,
+    "NBHD_NAME": "Platt Park",
+    "TYPOLOGY": 1389,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 50,
+    "NBHD_NAME": "Overland",
+    "TYPOLOGY": 9084,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 54,
+    "NBHD_NAME": "Ruby Hill",
+    "TYPOLOGY": 9285,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 40,
+    "NBHD_NAME": "Kennedy",
+    "TYPOLOGY": 7732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 32,
+    "NBHD_NAME": "Hampden",
+    "TYPOLOGY": 3459,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 58,
+    "NBHD_NAME": "Southmoor Park",
+    "TYPOLOGY": 6342,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 33,
+    "NBHD_NAME": "Hampden South",
+    "TYPOLOGY": 8763,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 38,
+    "NBHD_NAME": "Indian Creek",
+    "TYPOLOGY": 2345,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 30,
+    "NBHD_NAME": "Goldsmith",
+    "TYPOLOGY": 6876,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 69,
+    "NBHD_NAME": "Virginia Village",
+    "TYPOLOGY": 2434,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 65,
+    "NBHD_NAME": "University Hills",
+    "TYPOLOGY": 8907,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 34,
+    "NBHD_NAME": "Harvey Park",
+    "TYPOLOGY": 45347,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 43,
+    "NBHD_NAME": "Mar Lee",
+    "TYPOLOGY": 4732,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 24,
+    "NBHD_NAME": "East Colfax",
+    "TYPOLOGY": 9838,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 9,
+    "NBHD_NAME": "Capitol Hill",
+    "TYPOLOGY": 4765,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 47,
+    "NBHD_NAME": "North Capitol Hill",
+    "TYPOLOGY": 2934,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 16,
+    "NBHD_NAME": "Civic Center",
+    "TYPOLOGY": 5045,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 10,
+    "NBHD_NAME": "CBD",
+    "TYPOLOGY": 2349,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 63,
+    "NBHD_NAME": "Union Station",
+    "TYPOLOGY": 3023,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 60,
+    "NBHD_NAME": "Stapleton",
+    "TYPOLOGY": 2803,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 45,
+    "NBHD_NAME": "Montbello",
+    "TYPOLOGY": 2091,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 42,
+    "NBHD_NAME": "Lowry Field",
+    "TYPOLOGY": 3129,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 28,
+    "NBHD_NAME": "Gateway - Green Valley Ranch",
+    "TYPOLOGY": 8976,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 35,
+    "NBHD_NAME": "Harvey Park South",
+    "TYPOLOGY": 7567,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 19,
+    "NBHD_NAME": "College View - South Platte",
+    "TYPOLOGY": 3452,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 15,
+    "NBHD_NAME": "City Park West",
+    "TYPOLOGY": 4557,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 61,
+    "NBHD_NAME": "Sun Valley",
+    "TYPOLOGY": 9034,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 67,
+    "NBHD_NAME": "Valverde",
+    "TYPOLOGY": 9874,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 68,
+    "NBHD_NAME": "Villa Park",
+    "TYPOLOGY": 4598,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 26,
+    "NBHD_NAME": "Five Points",
+    "TYPOLOGY": 3450,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 29,
+    "NBHD_NAME": "Globeville",
+    "TYPOLOGY": 398,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 39,
+    "NBHD_NAME": "Jefferson Park",
+    "TYPOLOGY": 4569,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 49,
+    "NBHD_NAME": "Northeast Park Hill",
+    "TYPOLOGY": 5556,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 25,
+    "NBHD_NAME": "Elyria Swansea",
+    "TYPOLOGY": 675,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 3,
+    "NBHD_NAME": "Baker",
+    "TYPOLOGY": 3457,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 17,
+    "NBHD_NAME": "Clayton",
+    "TYPOLOGY": 5366,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 55,
+    "NBHD_NAME": "Skyland",
+    "TYPOLOGY": 4904,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 41,
+    "NBHD_NAME": "Lincoln Park",
+    "TYPOLOGY": 2299,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 77,
+    "NBHD_NAME": "Whittier",
+    "TYPOLOGY": 3847,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 18,
+    "NBHD_NAME": "Cole",
+    "TYPOLOGY": 1023,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 76,
+    "NBHD_NAME": "Westwood",
+    "TYPOLOGY": 1230,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 62,
+    "NBHD_NAME": "Sunnyside",
+    "TYPOLOGY": 4897,
+    "NOTES": ""
+  },
+  {
+    "NBHD_ID": 23,
+    "NBHD_NAME": "DIA",
+    "TYPOLOGY": 4086,
+    "NOTES": ""
+  }
+]
